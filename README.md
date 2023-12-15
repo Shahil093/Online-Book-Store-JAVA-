@@ -128,8 +128,7 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 
 Note:- Considering this as a Sample Project, we have not much considered of web security.
 #### Some Screenshots for the project:
-<img width="941" alt="image" src="Screenshot (34).png">
-<img width="941" alt="image" src="Screenshot%20(34).png">
+
 <img width="954" alt="image" src="Screenshot%20(36).png">
 <img width="930" alt="image" src="Screenshot%20(38).png">
 <img width="934" alt="image" src="Screenshot%20(37).png">
